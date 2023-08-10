@@ -1,4 +1,5 @@
 # Object-Counter
+<img src="images/img-counter.png" alt="Object Counter Demo" width="500"/>
 
 The **Object-Counter** project is a simple tool designed to count the number of objects and store entries of the counted objects. This project offers a straightforward solution for keeping track of objects and maintaining a record of the counting activities.
 
